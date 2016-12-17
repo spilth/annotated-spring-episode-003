@@ -161,6 +161,8 @@ And here is page two:
         <p>This is page two.</p>
     </@layout>
 
+Next: [CRUD Web App: Part 1 - Create & Read](https://github.com/spilth/annotated-spring-episode-004)
+
 ## Resources
 
 - http://freemarker.org
